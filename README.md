@@ -1,6 +1,6 @@
 # CryptoClustering
 
-##Issues I encountered while working:
+#Issues I encountered while working:
 
 I was having issues with my graphs. I reach out to to AskBCs and we went over graphing in general. I had my graphs right, but for some reason they weren't still showing. In conclusion, what ended up solving my problem was to restart my computer. Once I restarted my computer, the graphs started to show in VS Code.
 Even though, they're showing in VS Code, I don't understand why aren't they showing here, in GitHub.
