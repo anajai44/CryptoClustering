@@ -2,9 +2,11 @@
 
 ## Issues I encountered while working:
 
-I was having issues with my graphs. I reach out to to AskBCs and we went over graphing in general. I had my graphs right, but for some reason they weren't still showing. In conclusion, what ended up solving my problem was to restart my computer. Once I restarted my computer, the graphs started to show in VS Code.
-Even though, they're showing in VS Code, I don't understand why aren't they showing here, in GitHub.
-Therefore, attached are my graphs. 
+I was having issues with my graphs. I reach out to to AskBCs and we went over graphing in general. I had my graphs right, but for some reason they weren't still showing. In conclusion, what ended up solving my problem was restarting my computer. Once I restarted my computer, the graphs started to show in VS Code.
+Even though, they're showing in VS Code, I don't understand why aren't they showing here, in GitHub, in my code.
+In addtion, I learned that I should commit & push more often than doing it once or twice.
+Therefore, attached are my graphs to prove that they show in my VS Code. 
+
 <img width="911" alt="Screenshot 2024-03-25 232408" src="https://github.com/anajai44/CryptoClustering/assets/52751074/86f32c54-dd41-413a-90e4-50d335ec5715">
 <img width="895" alt="Screenshot 2024-03-25 232318" src="https://github.com/anajai44/CryptoClustering/assets/52751074/28422a1b-88e2-4f88-8ad5-e9908acf0272">
 <img width="782" alt="Screenshot 2024-03-25 232236" src="https://github.com/anajai44/CryptoClustering/assets/52751074/de57d814-db2f-4bda-82b6-4ec5db2e2bca">
